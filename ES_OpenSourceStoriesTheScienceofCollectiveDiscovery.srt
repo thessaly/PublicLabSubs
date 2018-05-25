@@ -1,0 +1,1179 @@
+1
+00:00:09,060 --> 00:00:11,780
+ - Puede que no tenga una formación científica técnica,
+
+2
+00:00:11,780 --> 00:00:15,300
+ pero tengo algo que los científicos no tienen,
+
+3
+00:00:15,300 --> 00:00:17,293
+ y es que conozco mi patio trasero.
+
+4
+00:00:18,380 --> 00:00:22,210
+ Si puedo hacer un relato detallado de eso,
+
+5
+00:00:22,210 --> 00:00:24,970
+ mostrarlo con cierto tipo de herramientas,
+
+6
+00:00:24,970 --> 00:00:27,323
+ Entonces tengo validez científica.
+
+7
+00:00:29,140 --> 00:00:33,700
+ Reunir cada fragmento individual de información generado por las personas
+
+8
+00:00:33,700 --> 00:00:36,700
+ Conforma una nube de conocimiento real.
+
+9
+00:00:48,914 --> 00:00:52,010
+ - Bien, entonces la ciencia convencional
+
+10
+00:00:52,010 --> 00:00:54,560
+ sucede fuera de la vista del público,
+
+11
+00:00:54,560 --> 00:00:56,120
+ así que está como en esta caja negra, casi,
+
+12
+00:00:56,120 --> 00:00:57,930
+ o encerrada en la torre de marfil.
+
+13
+00:00:57,930 --> 00:00:59,670
+ Tenemos muchos estereotipos sobre
+
+14
+00:00:59,670 --> 00:01:01,220
+ los científicos que la hacen,
+
+15
+00:01:01,220 --> 00:01:03,510
+ qué están haciendo y cómo funciona.
+
+16
+00:01:03,510 --> 00:01:05,170
+ Y lo que es emocionante de la ciencia ciudadana
+
+17
+00:01:05,170 --> 00:01:07,120
+ es que la abre, la saca a la luz.
+
+18
+00:01:09,670 --> 00:01:12,733
+ En realidad se refiere a los derechos y responsabilidades
+
+19
+00:01:12,733 --> 00:01:15,370
+ que cualquier persona en el planeta tiene
+
+20
+00:01:15,370 --> 00:01:18,073
+ de participar en hacer nuevos descubrimientos.
+
+21
+00:01:22,908 --> 00:01:27,070
+ Para mí, los científicos ciudadanos pueden distinguirse en dos categorías,
+
+22
+00:01:27,070 --> 00:01:28,490
+ aunque no son mutuamente excluyentes,
+
+23
+00:01:28,490 --> 00:01:32,252
+ y básicamente, una es ser una persona muy curiosa,
+
+24
+00:01:32,252 --> 00:01:35,930
+ y creo que todos tenemos curiosidades innatas
+
+25
+00:01:35,930 --> 00:01:37,780
+ acerca de nuestro ambiente
+
+26
+00:01:37,780 --> 00:01:39,997
+ Decimos: "Uy, ojalá supiera más sobre eso,
+
+27
+00:01:39,997 --> 00:01:41,760
+ Quiero saber más sobre eso."
+
+28
+00:01:41,760 --> 00:01:45,180
+ Y relacionado a esto, hay personas que tienen preocupaciones,
+
+29
+00:01:45,180 --> 00:01:47,740
+ preocupaciones sobre la salud, sobre el ambiente,
+
+30
+00:01:47,740 --> 00:01:50,680
+ y creo que esa curiosidad y esa preocupación
+
+31
+00:01:50,680 --> 00:01:52,970
+ tienden a llevar a las personas a
+
+32
+00:01:52,970 --> 00:01:55,293
+ querer participar en proyectos de ciencia ciudadana.
+
+33
+00:02:02,940 --> 00:02:06,696
+ - Veamos, ¿Dónde estaba?
+
+34
+00:02:06,696 --> 00:02:11,695
+ Una de las cosas que me di cuenta como urbanista
+
+35
+00:02:11,695 --> 00:02:15,870
+ es que si miras esto, esto parece hormigón,
+
+36
+00:02:15,870 --> 00:02:19,070
+ pero si levantas ese hormigón,
+
+37
+00:02:19,070 --> 00:02:20,970
+ lo que hay debajo de él
+
+38
+00:02:20,970 --> 00:02:24,553
+ es un sistema de pantanos y un sistema fluvial.
+
+39
+00:02:28,720 --> 00:02:34,620
+ Al usar la imaginación, un lugar que no era tan interesante
+
+40
+00:02:34,620 --> 00:02:37,120
+ de repente se llenó de historias,
+
+41
+00:02:37,120 --> 00:02:40,150
+ y luego esas historias también podrían guiarte
+
+42
+00:02:40,150 --> 00:02:43,001
+ en lo que querrías que sea tu vecindario.
+
+43
+00:02:46,810 --> 00:02:49,060
+ Me involucré inicialmente con
+
+44
+00:02:49,060 --> 00:02:54,260
+ Public Lab alrededor de 2010, creo,
+
+45
+00:02:54,260 --> 00:02:59,260
+ cuando comencé a usar sus kits de fotografía aérea.
+
+46
+00:03:01,720 --> 00:03:06,160
+ - Public Lab surgió durante el derrame de petróleo de BP.
+
+47
+00:03:06,160 --> 00:03:09,690
+ Estaba trabajando para una pequeña organización sin fines de lucro
+
+48
+00:03:09,690 --> 00:03:12,493
+ que desarrollaba programas de monitoreo comunitario.
+
+49
+00:03:14,480 --> 00:03:18,620
+ Y entonces, en ese momento, uno de los otros co-fundadores
+
+50
+00:03:18,620 --> 00:03:22,300
+ apareció en la puerta con un gran globo rojo
+
+51
+00:03:22,300 --> 00:03:25,010
+ y varios de sus amigos, y propuso que
+
+52
+00:03:25,010 --> 00:03:28,103
+ comenzáramos a lanzarlos sobre el Golfo de México.
+
+53
+00:03:36,880 --> 00:03:39,670
+ La idea era que íbamos a usar
+
+54
+00:03:39,670 --> 00:03:42,980
+ herramientas de código abierto de bajo costo para comenzar a trabajar
+
+55
+00:03:42,980 --> 00:03:45,653
+ una gran variedad de problemas ambientales
+
+56
+00:03:47,720 --> 00:03:50,420
+ - Nosotros como comunidad trabajando en lo ambiental
+
+57
+00:03:50,420 --> 00:03:53,400
+ nos vinculamos con el mundo físico todos los días,
+
+58
+00:03:53,400 --> 00:03:56,133
+ y necesitas herramientas para hacer eso.
+
+59
+00:03:58,620 --> 00:04:03,460
+ Nuestro hardware de código abierto es con lo que trabajamos
+
+60
+00:04:03,460 --> 00:04:07,170
+ para tomar algo desde donde existe en el ambiente
+
+61
+00:04:07,170 --> 00:04:11,582
+ y transformarlo en datos que pueden ser utilizados
+
+62
+00:04:11,582 --> 00:04:14,993
+ para mostrar una imagen de lo que está pasando.
+
+63
+00:04:16,540 --> 00:04:17,440
+ - Lo que estamos haciendo
+
+64
+00:04:17,440 --> 00:04:19,019
+ y los tipos de herramientas que estamos construyendo
+
+65
+00:04:19,019 --> 00:04:21,889
+ realmente surge de una tradición muy larga y fuerte
+
+66
+00:04:21,890 --> 00:04:24,730
+ de personas que usan herramientas analógicas y digitales
+
+67
+00:04:24,730 --> 00:04:26,190
+ para recolectar su propia información
+
+68
+00:04:26,190 --> 00:04:28,840
+ para contar su propia historia de lo que están experimentando.
+
+69
+00:04:36,030 --> 00:04:39,060
+ - Uno de los objetivos de la comunidad es
+
+70
+00:04:39,060 --> 00:04:41,580
+ remover todo este material rosa de nuestros canales,
+
+71
+00:04:41,580 --> 00:04:46,580
+ el material rosa es alquitrán y aceite, esencialmente.
+
+72
+00:04:51,520 --> 00:04:55,540
+ El Canal Gowanus es una de los afluentes del Río East,
+
+73
+00:04:55,540 --> 00:04:58,095
+ así que es básicamente un punto de conexión
+
+74
+00:04:58,095 --> 00:05:00,720
+ a la salida de la ciudad de Nueva York
+
+75
+00:05:00,720 --> 00:05:04,930
+ entre el Océano Atlántico y el Río East.
+
+76
+00:05:04,930 --> 00:05:07,010
+ Históricamente, la gente vino aquí
+
+77
+00:05:07,010 --> 00:05:08,600
+ porque era un gran lugar para pescar.
+
+78
+00:05:08,600 --> 00:05:11,670
+ Los primeros nativos observaron una hermosa marisma salina,
+
+79
+00:05:11,670 --> 00:05:14,567
+ y luego los banqueros lo miraron y pensaron:
+
+80
+00:05:14,567 --> 00:05:16,727
+ "Hm, excelente lugar para construir muelles
+
+81
+00:05:16,727 --> 00:05:20,640
+ y despachar productos y luego construir fábricas."
+
+82
+00:05:20,640 --> 00:05:23,660
+ Y entonces, el área llana que ves todo a tu alrededor
+
+83
+00:05:23,660 --> 00:05:26,100
+ pasó de ser un pantano, una marisma salina,
+
+84
+00:05:26,100 --> 00:05:29,110
+ a ser de pronto uno de los lugares más concurridos y ricos de Norteamérica,
+
+85
+00:05:29,110 --> 00:05:31,560
+ donde millones de toneladas de materiales
+
+86
+00:05:31,560 --> 00:05:34,520
+ y montones de cosas llegaron,
+
+87
+00:05:34,520 --> 00:05:37,480
+ y entonces tuvieron que deshacerse de la basura,
+
+88
+00:05:37,480 --> 00:05:38,750
+ y que hicieron con eso?
+
+89
+00:05:38,750 --> 00:05:41,000
+ Dijeron: "Bueno, vamos a tirarlo al estanque".
+
+90
+00:06:09,180 --> 00:06:13,000
+ Descubrí que había un club de canoistas aquí que eran
+
+91
+00:06:13,000 --> 00:06:16,023
+ lo suficientemente locos como para salir a estas aguas altamente contaminadas.
+
+92
+00:06:18,330 --> 00:06:20,260
+ Inicialmente, la razón por la que comenzamos
+
+93
+00:06:20,260 --> 00:06:23,430
+ el programa 'fotografiando nuestros patios traseros'
+
+94
+00:06:23,430 --> 00:06:25,090
+ es que buscamos online o también en
+
+95
+00:06:25,090 --> 00:06:27,330
+ las fuentes oficiales de fotografías de la ciudad,
+
+96
+00:06:27,330 --> 00:06:28,850
+ y ellos no tenían nada,
+
+97
+00:06:28,850 --> 00:06:30,790
+ no te permiten obtenerlo,
+
+98
+00:06:30,790 --> 00:06:33,630
+ y nosotros queríamos poder fotografiar
+
+99
+00:06:33,630 --> 00:06:36,290
+ el sitio que pensamos que estaba contaminado,
+
+100
+00:06:36,290 --> 00:06:38,530
+ y hacerlo en una resolución más alta
+
+101
+00:06:38,530 --> 00:06:40,263
+ que cualquier otra disponible.
+
+102
+00:06:42,924 --> 00:06:43,757
+ - Lo que están usando principalmente
+
+103
+00:06:43,757 --> 00:06:47,250
+ en el Canal Gowanus son los kits de fotografía aérea.
+
+104
+00:06:47,250 --> 00:06:51,670
+ Que generalmente incluyen cometas o globos,
+
+105
+00:06:51,670 --> 00:06:56,250
+ cámaras que han sido modificadas para tomar imágenes de cámara rápida (time-lapse),
+
+106
+00:06:56,250 --> 00:06:58,870
+ plataformas que ayudan a esas cámaras a mantenerse estables
+
+107
+00:06:58,870 --> 00:07:02,391
+ ya que rebotan bastante en un globo o una cometa.
+
+108
+00:07:02,391 --> 00:07:07,161
+ - Y luego usando una botella de jugo de zanahoria orgánica,
+
+109
+00:07:07,161 --> 00:07:10,660
+ y hackeando el código aquí dentro para hacer
+
+110
+00:07:10,660 --> 00:07:13,060
+ que esta cámara dispare cada cinco segundos,
+
+111
+00:07:13,060 --> 00:07:17,660
+ y de pronto tuve un kit de fotografía aérea de alta resolución.
+
+112
+00:07:17,660 --> 00:07:20,010
+ Veamos por qué este tipo me está haciendo pasar un mal rato.
+
+113
+00:07:21,000 --> 00:07:23,660
+ Y ahí vamos, creo que esto es todo.
+
+114
+00:07:23,660 --> 00:07:25,580
+ Creo que algo que es esencial tener
+
+115
+00:07:25,580 --> 00:07:28,170
+ a campo es cable telefónico reciclado
+
+116
+00:07:28,170 --> 00:07:31,720
+ de viejos cables telefónicos, un material maravilloso,
+
+117
+00:07:31,720 --> 00:07:34,600
+ y la cinta aislante es mi otro amigo.
+
+118
+00:07:34,600 --> 00:07:36,680
+ Y entre los dos,
+
+119
+00:07:36,680 --> 00:07:39,430
+ Normalmente puedo resolver cualquier problema que necesito.
+
+120
+00:07:43,240 --> 00:07:49,940
+ Miramos el mundo, el paisaje, con ojos forenses,
+
+121
+00:07:49,940 --> 00:07:53,340
+ y luego reconstruimos lo que no puedes ver
+
+122
+00:07:58,960 --> 00:08:02,770
+ Y la forma en que lo hacemos es tratando de tomar
+
+123
+00:08:02,770 --> 00:08:05,160
+ lo que son simples y aburridos flujos subterráneos,
+
+124
+00:08:05,160 --> 00:08:09,220
+ y mostrarlos como una red de arroyos fantasmas,
+
+125
+00:08:09,220 --> 00:08:13,720
+ y relacionarlos con problemas reales que enfrentan las personas.
+
+126
+00:08:37,090 --> 00:08:39,549
+ Y eso solo fue posible por
+
+127
+00:08:39,549 --> 00:08:42,500
+ tener acceso a ese conjunto de herramientas técnicas.
+
+128
+00:08:56,426 --> 00:08:59,700
+ - Muchas veces, las personas pueden tener
+
+129
+00:08:59,700 --> 00:09:02,370
+ problemas de salud o asma,
+
+130
+00:09:02,370 --> 00:09:03,780
+ o algo que están encontrando,
+
+131
+00:09:03,780 --> 00:09:05,120
+ y piensan que son sólo ellos,
+
+132
+00:09:05,120 --> 00:09:06,600
+ como si fueran los únicos
+
+133
+00:09:06,600 --> 00:09:08,690
+ que quizás estén teniendo este problema
+
+134
+00:09:08,690 --> 00:09:10,730
+ Es realmente cuando las personas comienzan a
+
+135
+00:09:10,730 --> 00:09:14,770
+ trabajar juntas y monitorear su salud,
+
+136
+00:09:14,770 --> 00:09:17,480
+ monitorear el ambiente de donde viven,
+
+137
+00:09:17,480 --> 00:09:19,460
+ que empiezan a ver que no son solo ellos,
+
+138
+00:09:19,460 --> 00:09:22,060
+ que en realidad a veces hay asuntos sistemáticos,
+
+139
+00:09:22,060 --> 00:09:24,310
+ problemas sistemáticos de contaminación
+
+140
+00:09:24,310 --> 00:09:25,510
+ que en verdad están afectando
+
+141
+00:09:25,510 --> 00:09:28,283
+ mucha gente en su comunidad.
+
+142
+00:09:36,300 --> 00:09:41,660
+ Entonces creo que cuando las personas comienzan a notar cosas
+
+143
+00:09:41,660 --> 00:09:45,780
+ y luego empiezan a usar herramientas para hacer realmente buenas mediciones,
+
+144
+00:09:45,790 --> 00:09:48,290
+ y para trabajar junto a otros miembros de la comunidad,
+
+145
+00:09:49,170 --> 00:09:53,722
+ ese tipo de equipamiento realmente ayuda a las comunidades
+
+146
+00:09:53,722 --> 00:09:56,970
+ a aprender sobre los problemas que locales para ellos,
+
+147
+00:09:56,970 --> 00:09:59,253
+ y ayuda a abordarlos y encontrar soluciones a esos problemas.
+
+148
+00:10:11,230 --> 00:10:13,270
+ - Este es el AirBeam1, lo estoy abriendo.
+
+149
+00:10:13,270 --> 00:10:15,210
+ Tienes tu botón de encendido, la cámara de detección.
+
+150
+00:10:15,210 --> 00:10:18,030
+ Las partículas entran, la luz se dispersa,
+
+151
+00:10:18,030 --> 00:10:20,160
+ y luego es registrada por un sensor.
+
+152
+00:10:20,160 --> 00:10:25,520
+ Así que la forma en que funciona es que cuando la parte superior está colocada así,
+
+153
+00:10:25,520 --> 00:10:29,000
+ tiene una pequeña carita feliz que dice no me cubras,
+
+154
+00:10:29,000 --> 00:10:30,760
+ y esta es la entrada donde está la nariz,
+
+155
+00:10:30,760 --> 00:10:32,810
+ y este es el escape, sobre el mentón.
+
+156
+00:10:37,850 --> 00:10:40,840
+ A menudo, las comunidades ya conocen los establecimientos
+
+157
+00:10:40,840 --> 00:10:44,660
+ problemáticos porque lo huelen, lo ven,
+
+158
+00:10:44,660 --> 00:10:48,530
+ pero, una vez más, no tienen la evidencia para básicamente probar
+
+159
+00:10:48,530 --> 00:10:50,530
+ que lo que sea que esté pasando con su salud
+
+160
+00:10:50,530 --> 00:10:52,210
+ está relacionado con ese establecimiento.
+
+161
+00:10:52,210 --> 00:10:54,910
+ Pero cuando haces una medición, entonces puedes hacer eso.
+
+162
+00:10:58,270 --> 00:10:59,570
+ Lo que AirBeam mide es
+
+163
+00:10:59,570 --> 00:11:02,030
+ las pequeñas partículas en el aire, PM2.5,
+
+164
+00:11:02,030 --> 00:11:05,653
+ y el nuevo va a medir PM1, PM2.5 y PM10.
+
+165
+00:11:06,570 --> 00:11:08,360
+ ¿Qué es PM2.5?
+
+166
+00:11:08,360 --> 00:11:10,820
+ Son partículas menores que
+
+167
+00:11:10,820 --> 00:11:12,763
+ dos micrones y medio de diámetro.
+
+168
+00:11:15,460 --> 00:11:19,770
+ Puedes poner alrededor de 60 de estas partículas, una al lado de la otra,
+
+169
+00:11:19,770 --> 00:11:22,060
+ y tendrían aproximadamente el ancho de un cabello humano.
+
+170
+00:11:22,060 --> 00:11:24,600
+ El peligro que representan para la salud humana
+
+171
+00:11:24,600 --> 00:11:27,810
+ es que son tan pequeñas que una partícula más grande podría
+
+172
+00:11:27,810 --> 00:11:29,900
+ quedar atrapada en tu nariz o en tu garganta,
+
+173
+00:11:29,900 --> 00:11:32,010
+ pero éstas partículas son tan pequeñas que atraviesan
+
+174
+00:11:32,010 --> 00:11:34,930
+ profundamente nuestros pulmones, y luego entran a nuestro torrente sanguíneo.
+
+175
+00:11:34,930 --> 00:11:36,250
+ Y causan problemas a corto plazo
+
+176
+00:11:36,250 --> 00:11:37,640
+ como el asma y la bronquitis,
+
+177
+00:11:37,640 --> 00:11:40,290
+ y problemas a largo plazo como cáncer y enfermedades cardíacas.
+
+178
+00:11:46,837 --> 00:11:48,260
+ HabitatMap es una empresa con sede en Brooklyn
+
+179
+00:11:48,260 --> 00:11:50,320
+ una organización sin fines de lucro por una salud ambiental justa,
+
+180
+00:11:50,320 --> 00:11:52,060
+ y lo que hacemos principalmente es trabajar con
+
+181
+00:11:52,060 --> 00:11:54,180
+ escuelas y organizaciones comunitarias
+
+182
+00:11:54,180 --> 00:11:56,130
+ para crear mapas para planificación y defensa de estos derechos.
+
+183
+00:11:56,130 --> 00:11:59,280
+ Y lo hacemos a través de nuestras dos plataformas de mapeo comunitario,
+
+184
+00:11:59,280 --> 00:12:01,534
+ AirCasting.org, que se centra en
+
+185
+00:12:01,534 --> 00:12:04,530
+ mediciones, fisiológicas o ambientales,
+
+186
+00:12:04,530 --> 00:12:07,270
+ y HabitatMap.org, que se enfoca en
+
+187
+00:12:07,270 --> 00:12:09,510
+ saberes comunitarios y reportar el conocimiento de la comunidad,
+
+188
+00:12:09,510 --> 00:12:11,240
+ mapeando estos saberes.
+
+189
+00:12:11,240 --> 00:12:13,730
+ Lo que continuamente escuchábamos de las personas es que AirBeam1
+
+190
+00:12:13,730 --> 00:12:17,310
+ fue muy útil para ellos para medir la exposición personal,
+
+191
+00:12:17,310 --> 00:12:18,826
+ pero muchas personas nos dicen,
+
+192
+00:12:18,826 --> 00:12:22,800
+ "Quiero instalar esto en mi casa y medir 24/7".
+
+193
+00:12:22,800 --> 00:12:24,110
+ Así que este es el AirBeam2,
+
+194
+00:12:24,110 --> 00:12:26,070
+ y es algo diferente al anterior.
+
+195
+00:12:26,070 --> 00:12:29,934
+ Lo que hace que AirBeam sea único es que, número uno, es de código abierto.
+
+196
+00:12:29,934 --> 00:12:32,300
+ Es raro que encuentres un producto comercial
+
+197
+00:12:32,300 --> 00:12:33,789
+ que libere todo el código
+
+198
+00:12:33,789 --> 00:12:36,710
+ y todos los esquemáticos involucrados.
+
+199
+00:12:36,710 --> 00:12:38,320
+ Así que ahora tenemos, por supuesto,
+
+200
+00:12:38,320 --> 00:12:40,940
+ el módulo Bluetooth que se encuentra aquí debajo,
+
+201
+00:12:40,940 --> 00:12:45,010
+ tenemos el módulo de Wi-Fi,
+
+202
+00:12:45,010 --> 00:12:47,690
+ y luego aquí tenemos un módulo celular 2G
+
+203
+00:12:47,690 --> 00:12:49,870
+ y una tarjeta SIM, y la antena.
+
+204
+00:12:49,870 --> 00:12:51,860
+ Y el sensor es mucho más pequeño,
+
+205
+00:12:51,860 --> 00:12:53,250
+ podemos sacarlo así.
+
+206
+00:12:53,250 --> 00:12:55,180
+ Puedes ver que tiene su propia entrada y salida,
+
+207
+00:12:55,180 --> 00:12:57,060
+ y tiene su propio protección para que
+
+208
+00:12:57,060 --> 00:12:59,480
+ no tengamos que preocuparnos por la interferencia de la luz.
+
+209
+00:12:59,480 --> 00:13:01,403
+ Entonces, lo que me propuse hacer fue decir
+
+210
+00:13:01,403 --> 00:13:03,070
+ sabemos que ésta es una necesidad apremiante
+
+211
+00:13:03,070 --> 00:13:05,230
+ para las comunidades con las que ya estamos trabajando
+
+212
+00:13:05,230 --> 00:13:06,480
+ Necesitan una herramienta donde puedan
+
+213
+00:13:06,480 --> 00:13:09,540
+ documentar las exposiciones a las que están siendo sometidos,
+
+214
+00:13:09,540 --> 00:13:10,760
+ Entonces, ¿cómo podemos hacer eso?
+
+215
+00:13:10,760 --> 00:13:13,030
+ Así que tengo mi humedad relativa registrándose,
+
+216
+00:13:13,030 --> 00:13:16,860
+ mi PM2.5, PM1, PM10 y temperatura en grados Fahrenheit.
+
+217
+00:13:16,860 --> 00:13:19,800
+ Y luego, si toco aquí, puedo avanzar y graficarlo.
+
+218
+00:13:19,800 --> 00:13:21,750
+ Puedo ver mis mediciones a través del tiempo.
+
+219
+00:13:21,750 --> 00:13:24,360
+ Si tienes un instrumento de bajo costo que es fácil de usar,
+
+220
+00:13:24,360 --> 00:13:26,300
+ entonces, de repente, la ciencia se convierte
+
+221
+00:13:26,300 --> 00:13:28,200
+ en algo que cualquirea puede hacer.
+
+222
+00:13:32,165 --> 00:13:34,539
+ Los veo allí abajo?
+
+223
+00:13:34,539 --> 00:13:37,293
+ Bien, veremos quién gana.
+
+224
+00:13:47,330 --> 00:13:50,750
+ - Cuando escuchas por primera vez acerca de una organización ambiental,
+
+225
+00:13:50,750 --> 00:13:52,142
+ más que nada escuchas sobre
+
+226
+00:13:52,142 --> 00:13:54,980
+ plantar árboles, jardines, cosas así.
+
+227
+00:13:54,980 --> 00:13:57,410
+ Realmente no piensas en cosas
+
+228
+00:13:57,410 --> 00:13:58,700
+ que realmente te vayan a afectar.
+
+229
+00:13:58,700 --> 00:14:02,203
+ - Y al principio no me gustaba para nada la ciencia.
+
+230
+00:14:03,200 --> 00:14:05,550
+ Pero esto era importante para mí,
+
+231
+00:14:05,550 --> 00:14:09,433
+ y yo quería ayudar a otras personas.
+
+232
+00:14:11,103 --> 00:14:14,570
+ - Sunset Park es una comunidad de clase trabajadora, ¿Verdad?
+
+233
+00:14:14,570 --> 00:14:17,560
+ Y entonces tienen todas estos problemas ambientales
+
+234
+00:14:17,560 --> 00:14:20,373
+ que simplemente nos rodean.
+
+235
+00:14:22,200 --> 00:14:24,940
+ - Fueron clave en el sentido de que para empezar,
+
+236
+00:14:24,940 --> 00:14:27,080
+ tienen una relación de larga data con la comunidad,
+
+237
+00:14:27,080 --> 00:14:31,250
+ tienen un grupo de jóvenes organizadores por la justicia,
+
+238
+00:14:31,250 --> 00:14:33,370
+ y por eso pudieron darnos devoluciones excelentes
+
+239
+00:14:33,370 --> 00:14:36,780
+ para la creación de la aplicación y el dispositivo AirBeam en sí mismo,
+
+240
+00:14:36,780 --> 00:14:38,780
+ y luego realmente pudieron apropiarse de él y utilizarlo.
+
+241
+00:14:40,590 --> 00:14:44,919
+ - El proyecto con Michael fue descubrir
+
+242
+00:14:44,919 --> 00:14:49,873
+ cuántos contaminantes, específicamente material particulado 2.5,
+
+243
+00:14:49,873 --> 00:14:51,890
+ estaba llegando al vecindario
+
+244
+00:14:51,890 --> 00:14:53,573
+ a través de la autopista Gowanus.
+
+245
+00:14:56,050 --> 00:14:59,210
+ - Llevaban consigo el AirBeam, o lo sostenían en la mano,
+
+246
+00:14:59,210 --> 00:15:02,070
+ asegurándose de no cubrir la entrada o el escape,
+
+247
+00:15:02,070 --> 00:15:03,250
+ y solo se paraban aquí.
+
+248
+00:15:03,250 --> 00:15:05,210
+ Y tenían una hoja, y en esa hoja
+
+249
+00:15:05,210 --> 00:15:07,640
+ anotaban los diferentes tipos de camiones.
+
+250
+00:15:07,640 --> 00:15:11,280
+ Ellos simplemente los contaban y se sentaban aquí con el AirBeam,
+
+251
+00:15:11,280 --> 00:15:12,113
+ y cada tanto
+
+252
+00:15:12,113 --> 00:15:13,640
+ sacaban su dispositivo Android
+
+253
+00:15:13,640 --> 00:15:15,755
+ y se aseguraban de que las mediciones estuvieran realizándose.
+
+254
+00:15:21,160 --> 00:15:23,980
+ - La autopista Gowanus en Sunset Park es muy diferente.
+
+255
+00:15:23,980 --> 00:15:27,350
+ No hay entradas en Sunset Park,
+
+256
+00:15:27,350 --> 00:15:30,560
+ entonces lo que nos queda son las salidas.
+
+257
+00:15:30,560 --> 00:15:34,270
+ Miles de automóviles y camiones pasan por allí todos los días,
+
+258
+00:15:34,270 --> 00:15:39,240
+ y esa es en parte la razón por la cual la tasa de asma
+
+259
+00:15:39,240 --> 00:15:40,910
+ y otras enfermedades respiratorias superiores
+
+260
+00:15:40,910 --> 00:15:42,360
+ es muy alta en Sunset Park.
+
+261
+00:15:44,310 --> 00:15:48,080
+ Entonces de alguna forma podíamos verlo, y lo sabemos
+
+262
+00:15:48,080 --> 00:15:49,750
+ pero no sabemos cuánto.
+
+263
+00:15:49,750 --> 00:15:54,750
+ Los AirBeams nos permitieron ver lo que realmente estaba sucediendo.
+
+264
+00:15:55,140 --> 00:15:59,028
+ - Queríamos capturar eso y demostrarle a la ciudad
+
+265
+00:15:59,028 --> 00:16:01,720
+ que esto es lo que está ocurriendo en Third Avenue,
+
+266
+00:16:01,720 --> 00:16:03,070
+ y la gente está viviendo aquí.
+
+267
+00:16:04,060 --> 00:16:06,380
+ - Lo que podemos probar es para empezar,
+
+268
+00:16:06,380 --> 00:16:09,010
+ que está más contaminado aquí que en otros lugares de la ciudad,
+
+269
+00:16:09,010 --> 00:16:11,700
+ dos, mucha de la contaminación está asociada con el tráfico de camiones diesel,
+
+270
+00:16:11,700 --> 00:16:13,970
+ y tres, mucho de ese tráfico de camiones diesel
+
+271
+00:16:13,970 --> 00:16:15,880
+ se corresponde con los vehículos de transporte y acarreo que ingresan
+
+272
+00:16:15,880 --> 00:16:17,603
+ a estas estaciones de transferencia de residuos.
+
+273
+00:16:21,120 --> 00:16:23,360
+ - Realmente ves por tí mismo lo que está sucediendo,
+
+274
+00:16:23,360 --> 00:16:24,970
+ y creo que eso es importante
+
+275
+00:16:24,970 --> 00:16:30,360
+ Cuando salimos y tratamos de encontrar las respuestas nosotros mismos,
+
+276
+00:16:30,360 --> 00:16:33,340
+ ahí es cuando realmente estamos aprendiendo,
+
+277
+00:16:33,340 --> 00:16:35,048
+ ahí es cuando realmente nos convertimos en científicos.
+
+278
+00:16:49,950 --> 00:16:51,970
+ - Creo que mucho del cambio importante
+
+279
+00:16:51,970 --> 00:16:55,550
+ que está ocurriendo es cómo está cambiando a los científicos,
+
+280
+00:16:55,550 --> 00:16:57,670
+ y cómo está cambiando la forma en que los científicos
+
+281
+00:16:57,670 --> 00:16:59,874
+ se acercan a la investigación científica,
+
+282
+00:16:59,874 --> 00:17:03,000
+ cómo abordamos el priorizar
+
+283
+00:17:03,000 --> 00:17:04,800
+ qué investigación vamos a hacer,
+
+284
+00:17:04,800 --> 00:17:06,780
+ cómo vamos a llevarla a cabo,
+
+285
+00:17:06,780 --> 00:17:09,400
+ y realmente comenzar a pensar de manera diferente
+
+286
+00:17:09,400 --> 00:17:11,040
+ acerca de cómo se produce el conocimiento,
+
+287
+00:17:11,040 --> 00:17:13,200
+ sobre quién realmente está involucrado en eso
+
+288
+00:17:13,200 --> 00:17:14,930
+ y quién debería estar involucrado,
+
+289
+00:17:14,930 --> 00:17:16,900
+ y sobre a quién sirve,
+
+290
+00:17:16,900 --> 00:17:19,160
+ y las prioridades de quién debería servir,
+
+291
+00:17:19,160 --> 00:17:22,180
+ porque permite a las personas el poder
+
+292
+00:17:22,180 --> 00:17:24,210
+ recolectar las observaciones que se necesitan
+
+293
+00:17:24,210 --> 00:17:26,630
+ y que son rigurosas y que cumplen con los estándares,
+
+294
+00:17:26,630 --> 00:17:28,740
+ para que puedan contribuir y ser parte de
+
+295
+00:17:28,740 --> 00:00:00,000
+ este sistema de descubrimiento científico.
